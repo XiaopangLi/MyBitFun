@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * java调用外部命令
+ * @author mengwen
  */
 public class JavaCallExternalCmd {
 
